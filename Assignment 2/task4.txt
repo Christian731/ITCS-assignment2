@@ -1,0 +1,4 @@
+The atom seems like it has more uses and very friendly to the user, i see it now being better. The downside
+is that it did not seem beginner friendly compared to command line, atleast to me. It has a welcome guide but 
+it did not help me on learning how to use it properly. The command line you can try things out at the very start
+and it will correct or say that there is an error.
